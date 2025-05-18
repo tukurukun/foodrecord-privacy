@@ -1,0 +1,2 @@
+# foodrecord-privacy
+FoodRecordアプリのプライバシーポリシー公開用リポジトリ
